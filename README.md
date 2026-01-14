@@ -17,4 +17,6 @@ Using Lombok
 
 Custom login and home pages(Not default spring)
 
+CSRF protection
+
 In-memory / H2 database support (can be extended)
