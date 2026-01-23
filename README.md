@@ -5,21 +5,21 @@ focuses on understanding authentication flow, session management, and basic secu
 
 ## Features
 
-Custom login page using Thymeleaf
+- Custom login page using Thymeleaf
 
-Authentication using Spring Security
+- Authentication using Spring Security
 
-Session-based login
+- Session-based login
 
-Protected home page
+- Protected home page
 
-Using Lombok 
+- Using Lombok 
 
-Custom login and home pages(Not default spring)
+- Custom login and home pages(Not default spring)
 
-CSRF protection
+- CSRF protection
 
-In-memory / H2 database support (can be extended)
+- In-memory / H2 database support (can be extended)
 
 ## LoginApplication Flow
 
