@@ -21,6 +21,17 @@ focuses on understanding authentication flow, session management, and basic secu
 
 - In-memory / H2 database support (can be extended)
 
+Dashboard
+
+The application includes a personalized home page displayed after successful authentication.
+
+- Displays the currently authenticated username.
+- Shows the user's active login status.
+- Provides a logout button using Spring Security's logout endpoint.
+- Maintains CSRF protection for the logout request.
+
+This demonstrates how authenticated user information can be used in Thymeleaf views and how session-based authentication integrates with protected pages.
+
 ## LoginApplication Flow
 
 <img width="602" height="1003" alt="LoginApplicationFlow (2)" src="https://github.com/user-attachments/assets/d9102418-1c25-4f36-8f98-112b6f06b277" />
