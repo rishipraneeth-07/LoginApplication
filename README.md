@@ -17,7 +17,7 @@ focuses on understanding authentication flow, session management, and basic secu
 
 - Custom login and home pages(Not default spring)
 
-- CSRF protection
+
 
 - In-memory / H2 database support (can be extended)
 
